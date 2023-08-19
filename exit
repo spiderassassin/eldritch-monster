@@ -1,0 +1,185 @@
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cd2963d[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0995271[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2817aa2[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..54f9425[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..57ad946[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fe1f573[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c0bf391[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..afbdef5[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..34e326f[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..61f74d3[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f941b70[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c129c35[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..64b4d0e[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2be4b1d[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e8d10e4[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b26f9bf[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e28a02b[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3704f5c[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset b/MyProject2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a5c81fe[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset b/MyProject2/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..98ff9f3[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8eb2b05[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..29f41e9[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c63ed58[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce60833[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5416475[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7f0b707[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5580f59[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f0013ef[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dd9cb4a[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0f36a97[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..44c15db[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..510126d[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2c4a8e7[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..18a90f8[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7eabed7[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..658b578[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..28c8267[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a8905ed[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0c797f9[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d83936b[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5ff72a5[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..edcc292[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b9daf8a[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d9143da[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e3ad612[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset differ
+[1mdiff --git a/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bb87fbd[m
+Binary files /dev/null and b/MyProject2/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset differ
+[1md
