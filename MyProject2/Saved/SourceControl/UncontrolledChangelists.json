@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/davegoel/Desktop/eldritch-monster/MyProject2/Content/Assets/Cage.uasset",
+				"/Users/davegoel/Desktop/eldritch-monster/MyProject2/Content/Levels/Level1.umap",
+				"/Users/davegoel/Desktop/eldritch-monster/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/davegoel/Desktop/eldritch-monster/MyProject2/Content/ThirdPerson/Blueprints/invisiblewall_Blueprint.uasset",
 				"C:/Users/natha/AppData/Local/GitHubDesktop/eldritch-monster/MyProject2/Content/Cage_Cage_geo.uasset",
 				"C:/Users/natha/AppData/Local/GitHubDesktop/eldritch-monster/MyProject2/Content/Crates.uasset",
 				"C:/Users/natha/AppData/Local/GitHubDesktop/eldritch-monster/MyProject2/Content/Assets/CageV3.uasset",
